@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSCimkeNyomtatas
 {
-    class Termeklap
+    public class Termeklap
     {
         public string SAP {get;set;}
         public string UNSzam { get; set; }

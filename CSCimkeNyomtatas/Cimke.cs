@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSCimkeNyomtatas
 {
-    class Cimke
+    public class Cimke
     {
+        public string SAP { get; set; }
         public Termeklap Termeklap {get;set; }
         public List<Veszkomp> VeszkompList { get; set; }
         public List<Segedlap> SegedlapList { get; set; }

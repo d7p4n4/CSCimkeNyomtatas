@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSCimkeNyomtatas
 {
-    class Veszkomp
+    public class Veszkomp
     {
         public string SAP { get; set; }
         public string Nev { get; set; }
         public string Relacio { get; set; }
-        public float Mennyiseg { get; set; }
+        public string Mennyiseg { get; set; }
     }
 }

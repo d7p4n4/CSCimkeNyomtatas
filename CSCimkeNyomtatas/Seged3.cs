@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSCimkeNyomtatas
 {
-    class Seged3
+    public class Seged3
     {
         public string SAP { get; set; }
         public int GHS01 { get; set; }
